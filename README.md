@@ -3,3 +3,6 @@
 
 01 - Binary to Decimal number converter
 https://github.com/Whoopinstick/01BinaryToDecimal
+
+02 - Border Previewer
+https://github.com/Whoopinstick/02BorderRadius
