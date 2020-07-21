@@ -1,7 +1,9 @@
 # 100AppsChallenge
 100 Apps Challenge in Swift / SwiftUI
 <br>
+<br>
 Inspiration from https://github.com/florinpop17/app-ideas
+<br>
 <br>
 My Apps -
 
