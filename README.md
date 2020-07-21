@@ -1,8 +1,8 @@
 # 100AppsChallenge
 100 Apps Challenge in Swift / SwiftUI
-<b>
+<br>
 Inspiration from https://github.com/florinpop17/app-ideas
-<b>
+<br>
 My Apps -
 
 01 - Binary to Decimal number converter <br>
