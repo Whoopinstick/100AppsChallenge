@@ -21,3 +21,6 @@ https://github.com/Whoopinstick/100Apps-04XmasLights
 
 05 - Cause Effect <br>
 https://github.com/Whoopinstick/100Apps-05CauseEffect
+
+06 - Color Cycle <br>
+https://github.com/Whoopinstick/100Apps-06ColorCycle
