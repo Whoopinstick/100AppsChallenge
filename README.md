@@ -27,3 +27,6 @@ https://github.com/Whoopinstick/100Apps-06ColorCycle
 
 07 - Countdown Timer <br>
 https://github.com/Whoopinstick/100Apps-07CountdownTimer
+
+08 - Dollars to Cents <br>
+https://github.com/Whoopinstick/100Apps-08DollarsToCents
