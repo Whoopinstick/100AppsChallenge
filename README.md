@@ -33,3 +33,9 @@ https://github.com/Whoopinstick/100Apps-08DollarsToCents
 
 09 - First DB <br>
 https://github.com/Whoopinstick/100Apps-09FirstDB
+
+10 - Flip Image <br>
+(not complete)
+
+11 - GitHub Status <br>
+https://github.com/Whoopinstick/100Apps-11GitHubStatus
