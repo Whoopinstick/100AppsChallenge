@@ -45,3 +45,6 @@ https://github.com/Whoopinstick/100Apps-12Hello
 
 13 - Gesture Detect <br>
 https://github.com/Whoopinstick/100Apps-13GestureDetect
+
+14 - Lorem Ipsum <br>
+https://github.com/Whoopinstick/100Apps-14LoremIpsum
