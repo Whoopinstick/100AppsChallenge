@@ -57,3 +57,6 @@ https://github.com/Whoopinstick/100Apps-16PCC
 
 17a - Card Workout (UIKit with Storyboards) <br>
 https://github.com/Whoopinstick/100Apps-17CardWorkout
+
+17b - Card Workout (UIKit with Programmatic UI) <br>
+https://github.com/Whoopinstick/100Apps-17bCardWorkout
