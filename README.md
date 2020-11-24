@@ -61,5 +61,5 @@ https://github.com/Whoopinstick/100Apps-17CardWorkout
 17b - Card Workout (UIKit with Programmatic UI) <br>
 https://github.com/Whoopinstick/100Apps-17bCardWorkout
 
-17b - Card Workout (SwiftUI) <br>
+17c - Card Workout (SwiftUI) <br>
 https://github.com/Whoopinstick/100Apps-17cCardWorkout
